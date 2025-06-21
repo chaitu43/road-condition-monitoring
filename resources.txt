@@ -1,0 +1,7 @@
+https://github.com/noorkhokhar99/Pothole-Detection-Pothole-Detection-using-python-and-deep-learning/tree/main
+
+see this file to get source code of pothole-detection using yolo
+
+you can also refer this youtube channel to get more information on yolov5
+
+https://www.youtube.com/@Pyresearch/videos
